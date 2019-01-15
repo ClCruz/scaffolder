@@ -1,43 +1,43 @@
 {
   "env": "production",
-  "host": "whitelabel-site",
-  "uri": "https://www.whitelabel-site",
-  "api": "https://api.whitelabel-site",
+  "host": "teatromodulodemo.tk",
+  "uri": "https://www.teatromodulodemo.tk",
+  "api": "https://api.teatromodulodemo.tk",
   "pinpad": "http://localhost:7001/api",
-  "legacy": "https://compra.whitelabel-site",
+  "legacy": "https://compra.teatromodulodemo.tk",
   "apikey": "live_0aeae6ff88784a9bb0a704359699051677c08991c03d46759ec943ec415a71e8",
   "geokey": "AIzaSyCH0_IkJUiB8TLRuIJFvnI-JKLvuKx1zl8",
   "ga": "",
-  "scss": "./src/scss/themes/whitelabel-name/main.scss",
-  "css": "/stylesheets/themes/whitelabel-name/main.css",
-  "logo": "https://media.tixs.me/logos/logo-whitelabel-name.jpeg",
-  "favico": "/img/whitelabel-name/",
+  "scss": "./src/scss/themes/teatromodulo/main.scss",
+  "css": "/stylesheets/themes/teatromodulo/main.css",
+  "logo": "https://media.tixs.me/logos/logo-teatromodulo.png",
+  "favico": "/img/teatromodulo/",
   "meta": {
     "description": "Venda de Ingressos",
-    "keywords": "venda,ingresssos,whitelabel-name,br,me"
+    "keywords": "venda,ingresssos,teatromodulo,br,me"
   },
   "recaptcha": {
     "private": "",
     "public": ""
   },
   "info": {
-    "title": "whitelabel-site | Venda de Ingressos",
+    "title": "teatromodulodemo.tk | Venda de Ingressos",
     "description": "Venda de Ingressos",
-    "siteName": "whitelabel-site",
+    "siteName": "teatromodulodemo.tk",
     "CNPJ": "",
     "companyName": ""
   },
   "templates": {
     "print": {
-      "voucher": "../comprar/templates/multi_whitelabel-name/impressaoComprador.html",
-      "gift": "../comprar/templates/multi_whitelabel-name/impressaoPresente.html"
+      "voucher": "../comprar/templates/multi_teatromodulo/impressaoComprador.html",
+      "gift": "../comprar/templates/multi_teatromodulo/impressaoPresente.html"
     },
     "email": {
-      "recover": "../comprar/templates/multi_whitelabel-name/solicitarSenha.html",
-      "buyer": "../comprar/templates/multi_whitelabel-name/emailComprador.html",
-      "gift": "../comprar/templates/multi_whitelabel-name/emailPresente.html",
-      "signature": "../comprar/templates/multi_whitelabel-name/confirmacaoEmailAssinatura.html",
-      "confirmation": "../comprar/templates/multi_whitelabel-name/confirmacaoEmail.html"
+      "recover": "../comprar/templates/multi_teatromodulo/solicitarSenha.html",
+      "buyer": "../comprar/templates/multi_teatromodulo/emailComprador.html",
+      "gift": "../comprar/templates/multi_teatromodulo/emailPresente.html",
+      "signature": "../comprar/templates/multi_teatromodulo/confirmacaoEmailAssinatura.html",
+      "confirmation": "../comprar/templates/multi_teatromodulo/confirmacaoEmail.html"
 
     }
   }
