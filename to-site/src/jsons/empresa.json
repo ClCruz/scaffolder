@@ -10,7 +10,7 @@
   "ga": "",
   "scss": "./src/scss/themes/whitelabel-name/main.scss",
   "css": "/stylesheets/themes/www.whitelabel-site/main.css",
-  "newTemplate": true,
+  "template": "ticketHub",
   "logo": "https://media.tixs.me/logos/logo-whitelabel-name.jpg",
   "favico": "/img/whitelabel-name/",
   "meta": {
