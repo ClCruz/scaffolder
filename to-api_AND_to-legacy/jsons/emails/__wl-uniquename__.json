@@ -13,67 +13,67 @@
     }
   },
   "formto": {
-    "email":"atendimento@whitelabel-site",
+    "email":"atendimento@__wl-site__",
     "from": "formto",
     "pass":""
   },
   "noreply": {
-    "email":"noreply@whitelabel-site",
+    "email":"noreply@__wl-site__",
     "from": "noreply",
     "pass":""
   },
   "register": {
-    "email":"cadastro@whitelabel-site",
+    "email":"cadastro@__wl-site__",
     "from": "cadastro",
     "pass":""
   },
   "shopping": {
-    "email":"pedido@whitelabel-site",
+    "email":"pedido@__wl-site__",
     "from": "pedido",
     "pass":""
   },
   "lembrete": {
-    "email":"pedido@whitelabel-site",
+    "email":"pedido@__wl-site__",
     "from": "pedido",
     "pass":""
   },
   "marketing": {
-    "email":"pedido@whitelabel-site",
+    "email":"pedido@__wl-site__",
     "from": "pedido",
     "pass":""
   },
   "info": {
-    "email":"pedido@whitelabel-site",
+    "email":"pedido@__wl-site__",
     "from": "pedido",
     "pass":""
   },
   "sac": {
-    "email":"pedido@whitelabel-site",
+    "email":"pedido@__wl-site__",
     "from": "noreply",
     "pass":""
   },
   "pedido": {
-    "email":"pedido@whitelabel-site",
+    "email":"pedido@__wl-site__",
     "from": "pedido",
     "pass":""
   },
   "assinantea@siscompre": {
-    "email":"pedido@whitelabel-site",
+    "email":"pedido@__wl-site__",
     "from": "pedido",
     "pass":""
   },
   "compreingressospedidos@hotmail": {
-    "email":"pedido@whitelabel-site",
+    "email":"pedido@__wl-site__",
     "from": "pedido",
     "pass":""
   },
   "compreingressos@siscompre": {
-    "email":"pedido@whitelabel-site",
+    "email":"pedido@__wl-site__",
     "from": "pedido",
     "pass":""
   },
   "compreingressos@gmail": {
-    "email":"pedido@whitelabel-site",
+    "email":"pedido@__wl-site__",
     "from": "pedido",
     "pass":""
   }
