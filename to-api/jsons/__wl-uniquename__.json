@@ -9,7 +9,7 @@
   "geokey": "__wl-geokey__",
   "ga": "__wl-ga__",
   "scss": "./src/scss/themes/__wl-uniquename__/main.scss",
-  "css": "/stylesheets/themes/__wl-uniquename__/main.css",
+  "css": "/stylesheets/themes/__wl-sitewithwwwnoprotocol__/main.css",
   "template": "__wl-template__",
   "logo": "__wl-site-logo__",
   "favico": "/img/__wl-uniquename__/",
