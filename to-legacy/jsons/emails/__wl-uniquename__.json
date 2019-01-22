@@ -1,0 +1,80 @@
+{
+  "config": {
+    "type": "api",
+    "smtp": {
+      "uri": "smtp-relay.gmail.com",
+      "port": "587",
+      "smtpsecure": "tls"
+    },
+    "api": {
+      "login": "leonel.costa@tixs.me",
+      "apikey": "b175cc5be004456855e061f1fb8f113b",
+      "uri": "http://app1.iagentesmtp.com.br/api/v1/send.json"
+    }
+  },
+  "formto": {
+    "email":"atendimento@__wl-sitewithoutwww__",
+    "from": "formto",
+    "pass":""
+  },
+  "noreply": {
+    "email":"noreply@__wl-sitewithoutwww__",
+    "from": "noreply",
+    "pass":""
+  },
+  "register": {
+    "email":"cadastro@__wl-sitewithoutwww__",
+    "from": "cadastro",
+    "pass":""
+  },
+  "shopping": {
+    "email":"pedido@__wl-sitewithoutwww__",
+    "from": "pedido",
+    "pass":""
+  },
+  "lembrete": {
+    "email":"pedido@__wl-sitewithoutwww__",
+    "from": "pedido",
+    "pass":""
+  },
+  "marketing": {
+    "email":"pedido@__wl-sitewithoutwww__",
+    "from": "pedido",
+    "pass":""
+  },
+  "info": {
+    "email":"pedido@__wl-sitewithoutwww__",
+    "from": "pedido",
+    "pass":""
+  },
+  "sac": {
+    "email":"pedido@__wl-sitewithoutwww__",
+    "from": "noreply",
+    "pass":""
+  },
+  "pedido": {
+    "email":"pedido@__wl-sitewithoutwww__",
+    "from": "pedido",
+    "pass":""
+  },
+  "assinantea@siscompre": {
+    "email":"pedido@__wl-sitewithoutwww__",
+    "from": "pedido",
+    "pass":""
+  },
+  "compreingressospedidos@hotmail": {
+    "email":"pedido@__wl-sitewithoutwww__",
+    "from": "pedido",
+    "pass":""
+  },
+  "compreingressos@siscompre": {
+    "email":"pedido@__wl-sitewithoutwww__",
+    "from": "pedido",
+    "pass":""
+  },
+  "compreingressos@gmail": {
+    "email":"pedido@__wl-sitewithoutwww__",
+    "from": "pedido",
+    "pass":""
+  }
+}
