@@ -1,0 +1,5 @@
+{
+  "api": "__wl-gateway-pagarme-api__",
+  "cryptkey": "__wl-gateway-pagarme-cryptkey__",
+  "uri": "https://api.pagar.me/1/"
+}
