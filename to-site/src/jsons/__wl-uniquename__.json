@@ -13,6 +13,9 @@
   "template": "__wl-template__",
   "logo": "__wl-site-logo__",
   "favico": "/img/__wl-uniquename__/",
+  "videos": {
+    "list": __wl-video-list__
+  },
   "meta": {
     "description": "__wl-meta-description__",
     "keywords": "__wl-meta-keywords__"
