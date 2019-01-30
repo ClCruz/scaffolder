@@ -4,6 +4,7 @@
   "uri": "__wl-sitewithwww__",
   "api": "__wl-siteapi__",
   "pinpad": "__wl-pinpaduri__",
+  "admin": "__wl-siteadmin__",
   "legacy": "__wl-sitecompra__",
   "apikey": "__wl-apikey__",
   "geokey": "__wl-geokey__",

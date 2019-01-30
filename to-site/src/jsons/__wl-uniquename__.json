@@ -5,6 +5,7 @@
   "api": "__wl-siteapi__",
   "pinpad": "__wl-pinpaduri__",
   "legacy": "__wl-sitecompra__",
+  "admin": "__wl-siteadmin__",
   "apikey": "__wl-apikey__",
   "geokey": "__wl-geokey__",
   "ga": "__wl-ga__",
