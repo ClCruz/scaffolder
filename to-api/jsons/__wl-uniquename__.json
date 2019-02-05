@@ -38,6 +38,9 @@
       "voucher": "../comprar/templates/multi___wl-uniquename__/impressaoComprador.html",
       "gift": "../comprar/templates/multi___wl-uniquename__/impressaoPresente.html"
     },
+    "emails": {
+      "folder": "/v1/template/email/default/"
+    },
     "email": {
       "recover": "../comprar/templates/multi___wl-uniquename__/solicitarSenha.html",
       "buyer": "../comprar/templates/multi___wl-uniquename__/emailComprador.html",
