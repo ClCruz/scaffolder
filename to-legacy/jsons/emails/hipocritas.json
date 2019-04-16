@@ -13,67 +13,67 @@
     }
   },
   "formto": {
-    "email":"atendimento@__wl-sitewithoutwww__",
+    "email":"atendimento@hipocritas.ticketoffice.wl",
     "from": "formto",
     "pass":""
   },
   "noreply": {
-    "email":"noreply@__wl-sitewithoutwww__",
+    "email":"noreply@hipocritas.ticketoffice.wl",
     "from": "noreply",
     "pass":""
   },
   "register": {
-    "email":"cadastro@__wl-sitewithoutwww__",
+    "email":"cadastro@hipocritas.ticketoffice.wl",
     "from": "cadastro",
     "pass":""
   },
   "shopping": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@hipocritas.ticketoffice.wl",
     "from": "pedido",
     "pass":""
   },
   "lembrete": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@hipocritas.ticketoffice.wl",
     "from": "pedido",
     "pass":""
   },
   "marketing": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@hipocritas.ticketoffice.wl",
     "from": "pedido",
     "pass":""
   },
   "info": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@hipocritas.ticketoffice.wl",
     "from": "pedido",
     "pass":""
   },
   "sac": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@hipocritas.ticketoffice.wl",
     "from": "noreply",
     "pass":""
   },
   "pedido": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@hipocritas.ticketoffice.wl",
     "from": "pedido",
     "pass":""
   },
   "assinantea@siscompre": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@hipocritas.ticketoffice.wl",
     "from": "pedido",
     "pass":""
   },
   "compreingressospedidos@hotmail": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@hipocritas.ticketoffice.wl",
     "from": "pedido",
     "pass":""
   },
   "compreingressos@siscompre": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@hipocritas.ticketoffice.wl",
     "from": "pedido",
     "pass":""
   },
   "compreingressos@gmail": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@hipocritas.ticketoffice.wl",
     "from": "pedido",
     "pass":""
   }
