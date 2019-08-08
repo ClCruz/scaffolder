@@ -4,11 +4,11 @@
 @import "../../to-framework/main.scss";
 
 $cor-fundo: $primary;
-$cor-texto: $secundary;
 $tamanho-header: 45px;
 $gradiente: $secundary !important;
 // colocar imagem dentro de url ou cor hex
 $fundo: url('/assets/bg-dz9.jpg');
+
 
 header.bg-dark {
 	background-color: $cor-fundo !important;
@@ -51,7 +51,7 @@ header.bg-dark {
 }
 
 .v--modal-overlay {
-	z-index: 999999 !important;
+	z-index: 999998 !important;
 }
 
 .navbar-fixed-top {
