@@ -13,67 +13,67 @@
     }
   },
   "formto": {
-    "email":"atendimento@__wl-sitewithoutwww__",
+    "email":"atendimento@mulheresdeshakespeare.ticketoffice.me",
     "from": "formto",
     "pass":""
   },
   "noreply": {
-    "email":"noreply@__wl-sitewithoutwww__",
+    "email":"noreply@mulheresdeshakespeare.ticketoffice.me",
     "from": "noreply",
     "pass":""
   },
   "register": {
-    "email":"cadastro@__wl-sitewithoutwww__",
+    "email":"cadastro@mulheresdeshakespeare.ticketoffice.me",
     "from": "cadastro",
     "pass":""
   },
   "shopping": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@mulheresdeshakespeare.ticketoffice.me",
     "from": "pedido",
     "pass":""
   },
   "lembrete": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@mulheresdeshakespeare.ticketoffice.me",
     "from": "pedido",
     "pass":""
   },
   "marketing": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@mulheresdeshakespeare.ticketoffice.me",
     "from": "pedido",
     "pass":""
   },
   "info": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@mulheresdeshakespeare.ticketoffice.me",
     "from": "pedido",
     "pass":""
   },
   "sac": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@mulheresdeshakespeare.ticketoffice.me",
     "from": "noreply",
     "pass":""
   },
   "pedido": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@mulheresdeshakespeare.ticketoffice.me",
     "from": "pedido",
     "pass":""
   },
   "assinantea@siscompre": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@mulheresdeshakespeare.ticketoffice.me",
     "from": "pedido",
     "pass":""
   },
   "compreingressospedidos@hotmail": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@mulheresdeshakespeare.ticketoffice.me",
     "from": "pedido",
     "pass":""
   },
   "compreingressos@siscompre": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@mulheresdeshakespeare.ticketoffice.me",
     "from": "pedido",
     "pass":""
   },
   "compreingressos@gmail": {
-    "email":"pedido@__wl-sitewithoutwww__",
+    "email":"pedido@mulheresdeshakespeare.ticketoffice.me",
     "from": "pedido",
     "pass":""
   }
